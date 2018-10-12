@@ -1,0 +1,5 @@
+org\dd\SpringBootInit\Note.class
+org\dd\SpringBootInit\NotesController.class
+org\dd\SpringBootInit\NotesService.class
+org\dd\SpringBootInit\NotesAPI.class
+org\dd\SpringBootInit\NotesRepository.class
